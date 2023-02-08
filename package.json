@@ -1,0 +1,14 @@
+{
+  "name": "@barefootbiology/simulating-rod-and-cone-loss",
+  "main": "833c31731ec28006@2078.js",
+  "version": "2078.0.0",
+  "homepage": "https://observablehq.com/@barefootbiology/simulating-rod-and-cone-loss",
+  "author": {
+    "name": "S. Scott Whitmore",
+    "url": "https://observablehq.com/@barefootbiology"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
